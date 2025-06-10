@@ -48,9 +48,10 @@ To visualize and explore Blinkit’s grocery dataset to uncover patterns across 
 
 ## 📂 Files Included
 
-- `Blinkit Dashboard.pbix` – Interactive Power BI dashboard
+- `blinkit.pbix` – Interactive Power BI dashboard
 - `BlinkIT Grocery Data.xlsx` – Raw data used for visualization
 - `Blinkit data analysis.sql` – SQL queries for cleaning and feature extraction
+- `blinkit.pdf`-Dashboard Screenshot
 
 ---
 
